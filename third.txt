@@ -1,1 +1,2 @@
-This is the text added to third file and first modification commit
+This is the text added to third file and first modification commit.
+File is edited in the Github Repo
